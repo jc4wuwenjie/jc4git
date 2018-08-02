@@ -1,21 +1,25 @@
-package com.hzit.shop.dao;
+package com.hzit.shop.services;
+
+import java.util.List;
 
 /**
  * @Author 合众艾特信息技术有限公司-研发部-吴文杰
- * @Date 2018/8/2-9:19
+ * @Date 2018/8/2-11:41
  * @Description
  */
-public class GoodinfoDao {
+public class GoodInfoServceLiuImpl implements GoodsInfoService {
 
-    public GoodinfoDao(){
-        System.out.println("GoodinfoDao被创建");
+    @Override
+    public int saveGoodsinfo() {
+        System.out.println("刘煌名的业务实现类，实现了数据增加");
+        return 0;
     }
 
-    public int getTotalCount(){
-        System.out.println("商品的数据库访问代码");
-        return 100;
+    @Override
+    public List findGoodsinfo() {
+        System.out.println("刘煌名的业务实现类，实现了数据查询");
+        return null;
     }
-
 }
 /*
 代码手中走~佛祖心中留！求永无BUG！
