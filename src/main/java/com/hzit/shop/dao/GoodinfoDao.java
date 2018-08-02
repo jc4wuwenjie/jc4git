@@ -7,7 +7,7 @@ package com.hzit.shop.dao;
  */
 public interface GoodinfoDao {
 
-    //public int getTotalCount();
+    //public int getTotalCount();//
 
 }
 /*
