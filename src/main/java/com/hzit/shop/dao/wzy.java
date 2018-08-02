@@ -5,6 +5,6 @@ package com.hzit.shop.dao;
  */
 public class wzy {
     public static void main(String[] args) {
-        System.out.println("老王");
+        System.out.println("老王ba");
     }
 }
