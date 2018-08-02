@@ -5,4 +5,7 @@ package com.hzit.shop.dao;
  */
 public class JLDao {
     /*fjkjjjfjr*/
+    public static void main(String[] args) {
+        System.out.println("华炳森真帅！");
+    }
 }
