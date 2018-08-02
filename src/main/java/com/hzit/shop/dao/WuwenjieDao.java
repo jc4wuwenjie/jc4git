@@ -2,12 +2,10 @@ package com.hzit.shop.dao;
 
 /**
  * @Author 合众艾特信息技术有限公司-研发部-吴文杰
- * @Date 2018/8/2-9:19
+ * @Date 2018/8/2-10:01
  * @Description
  */
-public interface GoodinfoDao {
-
-    public int getTotalCount();
+public class WuwenjieDao {
 
 }
 /*
