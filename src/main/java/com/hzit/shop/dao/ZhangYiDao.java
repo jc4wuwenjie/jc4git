@@ -8,4 +8,5 @@ import java.util.List;
 public interface ZhangYiDao {
     public int deleteUser();
     public int addUser();
+    public int updateUser();
 }
