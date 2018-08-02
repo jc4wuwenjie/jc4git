@@ -6,5 +6,6 @@ package com.hzit.shop.dao;
 public class HbsDao {
     public static void main(String[] args) {
         System.out.println("华炳森");
+        //safasfs
     }
 }

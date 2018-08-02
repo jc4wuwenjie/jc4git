@@ -5,6 +5,6 @@ package com.hzit.shop.dao;
  */
 public class WangZhiYuan {
     public static void main(String[] args) {
-        System.out.println("老王");
+        System.out.println("老王ba");
     }
 }
