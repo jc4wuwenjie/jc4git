@@ -1,4 +1,4 @@
 package com.hzit.shop.dao;
 
-public interface Liujianyu {
+public interface LJCDAO {
 }
