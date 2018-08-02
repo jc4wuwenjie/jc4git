@@ -5,5 +5,5 @@ package com.hzit.shop.dao;
  */
 public interface LiuHangDao {
 
-    public void Start1();
+    public void Start2();
 }
