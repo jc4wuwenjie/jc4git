@@ -6,4 +6,5 @@ package com.hzit.shop.dao;
  * @decription
  */
 public class test {
+    int a;
 }
