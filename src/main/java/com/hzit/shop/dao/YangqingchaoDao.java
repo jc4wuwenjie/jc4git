@@ -4,6 +4,8 @@ package com.hzit.shop.dao;
  * Created by 26708 on 2018/8/2.
  */
 public class YangqingchaoDao {
+
+    //ok
 }
 /*
 代码手中走~佛祖心中留！求永无BUG！
