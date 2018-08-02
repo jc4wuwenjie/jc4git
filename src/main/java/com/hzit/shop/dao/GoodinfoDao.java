@@ -5,7 +5,9 @@ package com.hzit.shop.dao;
  * @Date 2018/8/2-9:19
  * @Description
  */
-public class GoodinfoDao {
+public interface GoodinfoDao {
+
+    public int getTotalCount();
 
 }
 /*
