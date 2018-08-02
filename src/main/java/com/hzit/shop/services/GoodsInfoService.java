@@ -1,20 +1,19 @@
-package com.hzit.shop.dao;
+package com.hzit.shop.services;
+
+import com.hzit.shop.dao.GoodinfoDao;
+
+import java.util.List;
 
 /**
  * @Author 合众艾特信息技术有限公司-研发部-吴文杰
- * @Date 2018/8/2-9:19
- * @Description
+ * @Date 2018/8/2-11:07
+ * @Description  一个用于描述商品管理的业务，
  */
-public class GoodinfoDao {
+public interface GoodsInfoService {
 
-    public GoodinfoDao(){
-        System.out.println("GoodinfoDao被创建");
-    }
+    public int saveGoodsinfo();
 
-    public int getTotalCount(){
-        System.out.println("商品的数据库访问代码");
-        return 100;
-    }
+    public List findGoodsinfo();
 
 }
 /*
